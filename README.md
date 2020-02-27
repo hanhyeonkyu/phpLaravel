@@ -11,7 +11,7 @@
 5. `vi ~/.zshrc` and add it `export PATH=$PATH:$HOME/.composer/vendor/bin` and then `source ~/.zshrc`
 6. `composer global require laravel/installer` laravel install
 7. Go to `/usr/local/bin` and then change file `composer.phar` => `composer`
-8. `laravel new [your project name]` and `cd [your project name]` and then `php artisan serve` exceute server
-9. Setting your env copy `.env.example` to `.env`
+8. Setting your env copy `.env.example` to `.env`
+9. `laravel new [your project name]` and `cd [your project name]` and then `php artisan serve` exceute server
 
 Done 😀 ~!
